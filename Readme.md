@@ -22,24 +22,6 @@ Monthly-level records of flights taken by each customer, including distance flow
 
 --Separate core analytics from business-facing interpretations
 
-**🗂️ Project Structure**
-
-airline_loyalty_project/
-│
-├── data/
-│   ├── customer_loyalty_history.csv
-│   ├── customer_flight_activity.csv
-│
-├── notebooks/
-│   ├── eda.ipynb                   ← Main exploration and data cleaning
-│   └── analysis_summary.ipynb      ← Final visuals + interpretations
-│
-├── visuals/                        ← Optional folder to export plots
-│   └── (e.g., card_distribution.png, enrollment_trend.png)
-│
-│
-└── README.md
-
 **🛠 Tools & Libraries**
 
 ***Language:*** Python 3.12
@@ -69,4 +51,5 @@ pip install -r requirements.txt
 4. Open the Jupyter notebook:
 
 jupyter notebook notebooks/eda.ipynb
+
 Final results and visuals can be found in notebooks/analysis_summary.ipynb.
