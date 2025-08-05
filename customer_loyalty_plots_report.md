@@ -1,10 +1,4 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# also can you please create a separate file for all the plots which are there in the file and explain them
-
-Here are two separate reports based on your customer_loyality_eda.ipynb file:
-
-# 1. Customer Loyalty EDA Report (Text File)
+# 1. Customer Loyalty EDA Report 
 
 This document serves as an analysis summary of your customer loyalty dataset and the main findings from your EDA.
 
@@ -105,10 +99,3 @@ This document explains the plots and tables generated in the EDA notebook:
 
 **Plot/Table:** Yearly cancellation counts for Divorced, Married, and Single.
 **Interpretation:** Cancellations increase yearly for all groups, with most among married users.
-
-If you want these reports as downloadable text files, or want images recreated for visual context, let me know! If you add more notebooks or want graphics described further, please provide those files or image outputs.
-
-<div style="text-align: center">⁂</div>
-
-[^1]: customer_loyality_eda.ipynb
-
